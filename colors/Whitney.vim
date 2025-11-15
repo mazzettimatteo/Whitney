@@ -1,5 +1,5 @@
 " Vim colorscheme: Whithey (generalized)
-" Author: Custom
+" Author: Matteo Mazzetti
 " Background: dark
 set background=dark
 hi clear
